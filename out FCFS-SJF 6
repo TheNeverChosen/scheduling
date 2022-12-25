@@ -1,0 +1,20 @@
+Insira o nome do arquivo seguido de .extensão:
+FCFS escolhido:
+P1
+P2
+P3
+P4
+P5
+P6
+Tempo médio de execução: 9.00
+Tempo médio de espera: 5.50
+
+SJF escolhido:
+P1
+P2
+P3
+P4
+P5
+P6
+Tempo médio de execução: 9.00
+Tempo médio de espera: 5.50
